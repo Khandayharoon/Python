@@ -1,4 +1,4 @@
-#python is high level interpreted general purpose programming language that was  created by Guido Van Rossum in 1991 and imagine  us, learning it in 2025 November
+# python is high level interpreted general purpose programming language that was  created by Guido Van Rossum in 1991 and imagine  us, learning it in 2025 November
 * easy to code and maintain
 * an object oriented programming (OOP) language
 *  robust code standard library
