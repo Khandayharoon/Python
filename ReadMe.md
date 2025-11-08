@@ -5,7 +5,7 @@
 * unit test implementation
 
 
-#1.1 Data structures
+## 1.1 Data structures
  A variable is used to store and label data so that it can be referenced and manipulated.python is a dynamically typed language where at the runtime the type of data can be store as a mutable object , meaning that can be changed after it has been created and in the python there is no need to declare a variable at all , if we assign the value 3.14 to a pi variable , the python interpreter assumes  that pi is a float variable.
 
  Data structure are collection of related data that defines the relationship between the data and determine operations that can be performed on the data. in CS data structure are divided into two main types:
@@ -14,7 +14,7 @@
  2:- Non_Primitives
 
 
- #Primitives 
+ ### Primitives 
  Data structure are the main building blocks for data manipulation , in python the following are all primitive data structure
  * Integers
  * Floats
