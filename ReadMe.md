@@ -10,8 +10,8 @@
 
  Data structure are collection of related data that defines the relationship between the data and determine operations that can be performed on the data. in CS data structure are divided into two main types:
 
- 1:- Primitives
- 2:- Non_Primitives
+ #### 1:- Primitives
+ #### 2:- Non_Primitives
 
 
  ### Primitives 
