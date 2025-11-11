@@ -1,5 +1,5 @@
 def main():
-    
+    #All below are primitives 
     #integer variable
     year = 2029
     print("The year value is: {}".format(year))
@@ -8,7 +8,7 @@ def main():
     pi = 3.14
     print("The pi value is: {}".format(pi))
     
-    #string variable
+    #string variable also immutable
     program_version = "Python 3.9"
     print("The python version we are using is: {}".format(program_version))
     
